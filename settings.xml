@@ -1,0 +1,9 @@
+<settings>
+  <servers>
+    <server>
+      <id>maven-releases</id>
+      <username>__LOGIN__</username>
+      <password>__PASSWORD__</password>
+    </server>
+  </servers>
+</settings>

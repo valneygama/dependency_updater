@@ -1,0 +1,4 @@
+.dependencies.*
+download/*.jar
+download/*.war
+
